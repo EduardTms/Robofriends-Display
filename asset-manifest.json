@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends-display/static/css/main.70aff216.css",
+    "main.js": "/robofriends-display/static/js/main.e8b96c0a.js",
+    "static/js/787.0c4e1788.chunk.js": "/robofriends-display/static/js/787.0c4e1788.chunk.js",
+    "static/media/Amberg.woff": "/robofriends-display/static/media/Amberg.8b388389017224d28811.woff",
+    "index.html": "/robofriends-display/index.html",
+    "main.70aff216.css.map": "/robofriends-display/static/css/main.70aff216.css.map",
+    "main.e8b96c0a.js.map": "/robofriends-display/static/js/main.e8b96c0a.js.map",
+    "787.0c4e1788.chunk.js.map": "/robofriends-display/static/js/787.0c4e1788.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70aff216.css",
+    "static/js/main.e8b96c0a.js"
+  ]
+}
